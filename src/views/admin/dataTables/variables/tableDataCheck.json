@@ -1,0 +1,14 @@
+[
+  {
+    "name":["Electric Works",false],
+    "profit": 75.5  
+  },
+  {
+    "name":["Carpenting Works",true],
+    "profit": 35.4  
+  },
+  {
+    "name":["Construnction Works",true],
+    "profit": 25  
+  }
+]
